@@ -16,9 +16,9 @@ your_favorite_word.upcase!
 
 phrase = "IM NOT SHOUTING"
 
-lowercased_phrase = phrase # Put a . after phrase and use a String method.
+lowercased_phrase = "IM NOT SHOUTING"
 
-puts lowercased_phrase
+puts lowercased_phrase.downcase
 
 # Challenge 4: Count how many letters are in that big_word
 
