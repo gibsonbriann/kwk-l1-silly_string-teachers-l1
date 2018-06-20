@@ -5,3 +5,4 @@ puts "supercalifragilisticexpialidocious".length
 a= "wow"
 b= "mom"
 puts a+b
+puts "i really like programming".capitalize!
