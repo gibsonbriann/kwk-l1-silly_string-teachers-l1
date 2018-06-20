@@ -8,4 +8,4 @@ puts a+b
 puts "i really like programming".capitalize!
 value ="Astounding aardvarks, arguably an ancient animal, always ate apples and acorns and artichokes all around Athens, amazing!"
 puts value.gsub "A","O",
-value.gsub "a","o"
+puts value.gsub "a","o"
