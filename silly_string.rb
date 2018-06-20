@@ -7,4 +7,4 @@ b= "mom"
 puts a+b
 puts "i really like programming".capitalize!
 String="Astounding aardvarks, arguably an ancient animal, always ate apples and acorns and artichokes all around Athens, amazing!"
-puts String.gsub!"A,O","a,o"
+puts String.gsub s "A,O","a,o"
