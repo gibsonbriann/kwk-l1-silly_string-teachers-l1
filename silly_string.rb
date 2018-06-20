@@ -1,4 +1,4 @@
-your_favorite_word= "Love"
+your_favorite_word= "Love".upcase
 puts your_favorite_word
 your_favorite_word.upcase!
 puts "IM NOT SHOUTING".downcase
