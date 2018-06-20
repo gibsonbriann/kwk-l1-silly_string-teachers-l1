@@ -6,5 +6,5 @@ a= "wow"
 b= "mom"
 puts a+b
 puts "i really like programming".capitalize!
-String ="Astounding aardvarks, arguably an ancient animal, always ate apples and acorns and artichokes all around Athens, amazing!"
-puts String.gsub "A","O"
+value ="Astounding aardvarks, arguably an ancient animal, always ate apples and acorns and artichokes all around Athens, amazing!"
+puts value.gsub "A","O"
